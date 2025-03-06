@@ -220,6 +220,8 @@ void loop()
 - **[Zip]** [Seeed_PCA9685 Software Library](https://github.com/Seeed-Studio/Seeed_PCA9685/archive/master.zip)
 
 - **[PDF]** [Datasheet PCA9685](https://files.seeedstudio.com/wiki/Grove-16-Channel_PWM_Driver-PCA9685/res/PCA9685.pdf)
+  
+- **[Datasheet]** [Datasheet PCA9685](https://www.lisleapex.com/blog-pca9685-16-channel-led-controller-datasheet-by-nxp-semiconductors)
 
 ## Tech Support & Product Discussion
 
